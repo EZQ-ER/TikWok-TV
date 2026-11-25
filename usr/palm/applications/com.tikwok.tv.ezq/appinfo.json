@@ -1,0 +1,23 @@
+{
+  "id": "com.tikwok.tv.ezq",
+  "version": "8.0.2",
+  "vendor": "EZQ",
+  "type": "web",
+  "main": "index.html",
+  "title": "TikWok TV",
+  "appDescription": "TikWok TV - unofficial third-party short video viewer",
+  "icon": "icon.png",
+  "largeIcon": "largeIcon.png",
+  "iconColor": "#000000",
+  "bgColor": "#000000",
+  "splashBackground": "splash.png",
+  "splashColor": "#000000",
+  "resolution": "1920x1080",
+  "support360Content": false,
+  "checkUpdateOnLaunch": false,
+  "enablePigScreenSaver": false,
+  "handlesRelaunch": false,
+  "vendorExtension": {
+    "allowCrossDomain": true
+  }
+}
